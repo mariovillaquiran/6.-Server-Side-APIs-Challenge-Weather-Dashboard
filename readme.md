@@ -1,4 +1,4 @@
-# HW03: JavaScript Challenge: Password Generator
+# HW06. Server-Side APIs Challenge: Weather Dashboard
 
 ## Link to site
 
